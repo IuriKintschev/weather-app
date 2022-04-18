@@ -1,0 +1,18 @@
+{
+  "extends": "react-native-wcandillon",
+  "rules": {
+    "import/no-default-export": 0,
+    "camelcase": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "@typescript-eslint/no-empty-interface": "off",
+    "@typescript-eslint/no-shadow": "off",
+    "import/extensions": [
+      "off"
+    ],
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-empty-function": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/consistent-type-imports": "off",
+    "no-nested-ternary": "off"
+  }
+}
