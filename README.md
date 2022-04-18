@@ -18,8 +18,8 @@
  - [ ] Configurar icon do projeto `ios/android`
    - [ ] Icon `android`
    - [ ] Icon `ios`
- - [ ] Configurar fontes do projeto
- - [ ] Configurar imagens do projeto
+ - [X] Configurar fontes do projeto
+ - [X] Configurar imagens do projeto
  - [ ] Desenhar telas do projeto -
    - [ ] Tela `Home`
    - [ ] Tela `Weather`

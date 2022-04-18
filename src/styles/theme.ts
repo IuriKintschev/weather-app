@@ -49,41 +49,41 @@ const theme = createTheme({
   textVariants: {
     title1: {
       fontSize: normalize(24),
-      // fontFamily: "OpenSans-Bold",
+      fontFamily: "Roboto-Bold",
       color: "titleWeight",
     },
     title2: {
       fontSize: normalize(20),
       lineHeight: normalize(30),
-      // fontFamily: "OpenSans-Bold",
+      fontFamily: "Roboto-Bold",
       color: "titleWeight",
     },
     title3: {
       fontSize: normalize(18),
       lineHeight: normalize(30),
-      // fontFamily: "OpenSans-Bold",
+      fontFamily: "Roboto-Bold",
       color: "titleWeight",
     },
     title4: {
       fontSize: normalize(16),
       lineHeight: normalize(30),
-      // fontFamily: "OpenSans-Bold",
+      fontFamily: "Roboto-Bold",
       color: "titleWeight",
     },
     title5: {
       fontSize: normalize(14),
       lineHeight: normalize(30),
-      // fontFamily: "OpenSans-Bold",
+      fontFamily: "Roboto-Bold",
       color: "titleWeight",
     },
     body: {
       fontSize: normalize(14),
-      // fontFamily: "OpenSans-Regular",
+      fontFamily: "Roboto-Regular",
       color: "textDefault",
     },
     button: {
       fontSize: normalize(18),
-      // fontFamily: "OpenSans-Bold",
+      fontFamily: "Roboto-Bold",
       color: "lightWeight",
     },
   },
