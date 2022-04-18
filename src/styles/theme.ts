@@ -48,7 +48,7 @@ const theme = createTheme({
   },
   textVariants: {
     title1: {
-      fontSize: normalize(24),
+      fontSize: normalize(28),
       fontFamily: "Roboto-Bold",
       color: "titleWeight",
     },
@@ -77,7 +77,7 @@ const theme = createTheme({
       color: "titleWeight",
     },
     body: {
-      fontSize: normalize(14),
+      fontSize: normalize(16),
       fontFamily: "Roboto-Regular",
       color: "textDefault",
     },
