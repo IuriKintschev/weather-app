@@ -8,9 +8,9 @@
  - [X] Criar um arquivo `"README.md"`
  - [X] Configurar o projeto para o `GitHub`
  - [X] Configurar `eslint`
- - [ ] Criar estrutura inicial
- - [ ] Criar navegação padrão do projeto
- - [ ] Criar rotas de aplicação
+ - [X] Criar estrutura inicial
+ - [X] Criar navegação padrão do projeto
+ - [X] Criar rotas de aplicação
  - [X] Criar `styleguide` do projeto
  - [ ] Configurar splash screen do projeto `ios/android`
    - [ ] Splash `android`

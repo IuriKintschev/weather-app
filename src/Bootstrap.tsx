@@ -1,15 +1,7 @@
 import React from "react";
 
-import { Box, Button, Text } from "~/components";
+import Router from "~/routes";
 
-const Bootstrap: React.FC = () => (
-  <Box flex={1} alignItems={"center"} justifyContent={"center"}>
-    <Text variant={"title1"}>Hello world!</Text>
-
-    <Button variant={"elevation"}>
-      <Text variant={"button"}>Ready</Text>
-    </Button>
-  </Box>
-);
+const Bootstrap: React.FC = () => <Router />;
 
 export default Bootstrap;
