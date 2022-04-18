@@ -11,7 +11,7 @@
  - [ ] Criar estrutura inicial
  - [ ] Criar navegação padrão do projeto
  - [ ] Criar rotas de aplicação
- - [ ] Criar `styleguide` do projeto
+ - [X] Criar `styleguide` do projeto
  - [ ] Configurar splash screen do projeto `ios/android`
    - [ ] Splash `android`
    - [ ] Splash `ios`
