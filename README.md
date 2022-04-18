@@ -20,12 +20,12 @@
    - [ ] Icon `ios`
  - [X] Configurar fontes do projeto
  - [X] Configurar imagens do projeto
- - [ ] Desenhar telas do projeto -
-   - [ ] Tela `Home`
-   - [ ] Tela `Weather`
- - [ ] Recuperar localização do usuário
- - [ ] Criar serviço para buscar dados do [OpenWeather](https://openweathermap.org/api)
- - [ ] Integrar serviço com a tela `Weather`
+ - [X] Desenhar telas do projeto -
+   - [X] Tela `Home`
+   - [X] Tela `Weather`
+ - [X] Recuperar localização do usuário
+ - [X] Criar serviço para buscar dados do [OpenWeather](https://openweathermap.org/api)
+ - [X] Integrar serviço com a tela `Weather`
  - [ ] Criar testes de validação
  - [ ] Gerar `APK` para `Android` e disponibilizar em releses do projeto no `git`
 
