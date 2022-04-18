@@ -1,4 +1,5 @@
 import React from "react";
+import Geolocation from "@react-native-community/geolocation";
 
 import View from "./View";
 
@@ -7,6 +8,10 @@ import { AppRouteProps } from "~/routes/App.routes";
 
 const Home: React.FC<Stack<AppRouteProps, "Home">> = ({ navigation }) => {
   const { navigate } = navigation;
+
+  React.useEffect(() => {
+    Geolocation.requestAuthorization();
+  }, []);
 
   function navigateToWeather() {
     navigate("Weather");
